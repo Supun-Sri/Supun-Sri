@@ -71,7 +71,9 @@ grow in a real world tech environment.
 </p>
 [Web based multiplayer game with React-three-fiber and express backend]
 - [Live Demo]
-#### [chat application]
+#### 
+
+[chat application]
 <p align="left">
   <a href="">
     <img src="https://github.com/Supun-Sri/A-discussion-chat-application-made-with-react-material-ui-and-threejs-frontend-and-firebase/blob/main/%7B1090785D-6626-4B31-B5A4-8D4A7DE47F5C%7D.png?raw=true" alt="Project 1" width="300" />
@@ -79,7 +81,9 @@ grow in a real world tech environment.
 </p>
 [this project is built for demonstrate the react, material ui , threejs and firebase experience]
 - [Live Demo]
-#### [Event management and Ticket booking platform]
+#### 
+
+[Event management and Ticket booking platform]
 <p align="left">
   <a href="multiplayer-with-chat.netlify.app">
     <img src="" alt="Project 1" width="300" />
