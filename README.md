@@ -69,7 +69,7 @@ grow in a real world tech environment.
     <img src="https://github.com/Supun-Sri/Web-Based-Multiplayer-game-with-react-three-fiber-and-express-backend/blob/main/%7B534BCCFE-4D57-4347-AD43-44AFB784E7D1%7D.png?raw=true" alt="Project 1" width="300" />
   </a>
 </p>
-<a href="multiplayer-with-chat.netlify.app"> Link </a>
+<a href="https:/multiplayer-with-chat.netlify.app"> Link </a>
 [Web based multiplayer game with React-three-fiber and express backend]
 - [Live Demo]
 
