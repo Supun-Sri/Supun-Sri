@@ -6,7 +6,7 @@
 
 ### About Me
 
-Second-year Software Engineering undergraduate with
+Software Engineering undergraduate with
 hands-on experience through personal projects and
 academic coursework in software development and web
 technologies Passionate building efficient, secure
