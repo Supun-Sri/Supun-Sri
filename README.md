@@ -102,16 +102,7 @@ grow in a real world tech environment.
 - [Live Demo]
 
 
----
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Supun-Sri&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supun-sri&layout=compact&theme=radical" alt="Your Top Languages" />
-</p>
-
----
 
 ### Connect with Me
 
