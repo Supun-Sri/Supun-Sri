@@ -6,11 +6,10 @@
 
 ### About Me
 
-Software Engineering undergraduate with
-hands-on experience through personal projects and
-academic coursework in software development and web
+Software Developer with
+hands-on experience through exciting projects in software development and web
 technologies Passionate building efficient, secure
-applications. Strong foundation in practical
+applications. Strong foundation in real-world
 projects and a proactive learner eager to contribute and
 grow in a real world tech environment.
 
