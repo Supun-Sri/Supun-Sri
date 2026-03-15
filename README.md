@@ -1,4 +1,4 @@
-# Hi there! I'm Supun Sri Wickrama 👋
+# Hi there! I'm Supun Sri Wickrama 
 
 <div align="center">
   <a href="https://supun-sri.netlify.app/">
@@ -8,13 +8,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I am a **Software Developer** with hands-on experience in building efficient, secure, and user-centric applications. I am passionate about modern web technologies and proactive about solving real-world problems in dynamic tech environments. Eager to contribute, grow, and build high-performance software.
 
 ---
 
-### 🛠️ My Skills
+###  My Skills
 
 #### Programming Languages
 <p align="center">
@@ -46,7 +46,7 @@ I am a **Software Developer** with hands-on experience in building efficient, se
 
 ---
 
-### 💻 Featured Projects
+###  Featured Projects
 
 #### Real Estate Brokerage Platform (Next.js)
 <a href="https://globalest-by-supun.netlify.app">
@@ -71,7 +71,7 @@ I am a **Software Developer** with hands-on experience in building efficient, se
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/supun-sri-wickrama-0ba82b297/">
